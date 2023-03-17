@@ -1,1 +1,1 @@
-# Rakkas SuperTokens example
+# Rakkas credentials example
